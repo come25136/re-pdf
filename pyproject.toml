@@ -1,0 +1,10 @@
+[project]
+name = "pdf-retext"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf==1.22.0",
+    "rich>=14.0.0",
+]
